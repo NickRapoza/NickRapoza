@@ -4,5 +4,5 @@ Computer Science graduate and Cybersecurity master's student at the University o
 
 I enjoy building software in areas including automation, systems, security, and scalable infrastructure.
 
-🔗 Portfolio: https://your-website-link.com  
-🔗 LinkedIn: www.linkedin.com/in/nick-rapoza-aa97412a9/  
+🔗 Portfolio: https://nickrapoza.github.io/
+🔗 LinkedIn: [LinkedIn](URL "www.linkedin.com/in/nick-rapoza-aa97412a9/")
